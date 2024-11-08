@@ -1,0 +1,63 @@
+this is the second  vlog after joining the depi 
+in the seccond week i had 3 sessions 
+first one social skills that takled about emotional intelligence and the other 2 were technical
+in the technical sessions we studied 4 modules 
+first module we learned:
+  CryptographyPrinciples of permissionsSteganography:
+        
+second module was about public key infrastructure we learned:
+         Public key infrastructure
+         PKI components
+         Certification authorities
+         Enabling trust
+         Certificates
+         CA management
+third module was about Identity Management we learned :
+        What is identity management?
+        Personally identifiable information
+        Authentication factors
+        Directory services
+        Kerberos
+        Windows NT LAN Manager
+        Password policies
+        Cracking passwords
+        Password managers
+        Group accounts
+fourth module was about network hardening we learned:
+         Limiting remote admin access
+         AAA: Administrative access
+         Simple Network Management Protocol
+         Network segmentation
+         Limiting physical access
+         Establishing secure access
+         Network devices
+         Fundamental device protection summary
+         Traffic filtering best practices
+in those 2 sessions we made 1 report
+           
+           Identity Management Challenges:
+1. Discuss common challenges organizations face in implementing identity
+management solutions, such as managing access rights, scaling, and
+integrating with existing systems.
+2. Provide examples of identity-related security incidents (e.g., account
+takeovers) and explain how they could have been prevented with
+proper identity management.
+
+and we had anthor task:
+  Data Encryption Demonstration:
+
+• Choose a tool or programming language to encrypt a sample data file (e.g., OpenSSL, GPG, or a
+Python encryption library).
+• Document the steps to encrypt and decrypt the file, including the commands or code used.
+• Explain the significance of encryption in data security and how it protects data in transit and
+at rest.
+
+
+and also 5 rooms in tryhackme:
+ Introduction to Cryptography
+ Cryptography Basics
+ Cryptography for Dummies
+ encryptioncrypto101
+Identity and Access Management
+
+
